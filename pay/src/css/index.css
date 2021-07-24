@@ -1,0 +1,45 @@
+body{
+    padding:0px;
+    margin:0px;
+}
+#welcome-nav{
+    height: 80px;
+}
+#welcome-brand{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight:bolder;
+}
+#welcome-nav-content-right{
+    
+}
+#welcome-nav-content-right button{
+    border-radius: 14px;
+    -webkit-border-radius: 14px;
+    -moz-border-radius: 14px;
+    -ms-border-radius: 14px;
+    -o-border-radius: 14px;
+    font-weight:bold;
+}
+@media only screen and (max-width: 600px){
+    #welcome-nav{
+        padding-left: 3px !important;
+        padding-right: 3px !important;
+        height: 80px;
+    }
+    #welcome-brand{
+    
+    }   
+}
+
+
+.form-signin {
+    width: 100%;
+    max-width: 520px;
+    padding: 15px;
+    margin: auto;
+}
+
+#registration_container img{
+    width: 300px;
+    height:300px;
+}

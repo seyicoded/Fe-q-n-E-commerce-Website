@@ -1,0 +1,1 @@
+add machine item to site and den loop 4 to d index at random

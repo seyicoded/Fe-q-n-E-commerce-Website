@@ -1,0 +1,12 @@
+---live
+secret key :
+public key: 
+
+---test
+sk_test_5223648297076aa3dd6f2fe837745ed13247784e
+pk_test_6b31f0abd99747be2b557f7a494eb081f262a306
+
+//http://scti.tk/paypal/success.php?reference=T097542987850814
+
+http://scti.tk/success.php?trxref=f934455c25ae32419abeb3a2ab6106f5&reference=f934455c25ae32419abeb3a2ab6106f5
+

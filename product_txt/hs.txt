@@ -1,0 +1,13 @@
+<div id='txt'>
+Meet the GREENLIFE HERBAL STEAMER. Your number one portable equipment for respiratory complication(s) which combines steam and specialised herb therapy to effectively relieve lungs and respiratory tract infection(s) and congestions. 
+Perfect help for:
+<ul>
+<li>Asthma,Pneumonia, Cough sufferers, Bronchititis</li>
+<li>Decongestion of the lungs,Nasal cavities and airway. </li>
+<li>Helps people with sleep apnea, Improves sleep quality,</li>
+<li>Optimize the body's oxygen/carbon dioxide exchange,</li>
+<li>Releases oxygen to the brain,Smoothes brain cells,</li>
+<li>Relieves fatigue due to breathing diffulties,</li>
+<li>Increases general energy and vitality.</li>
+</ul>
+</div>

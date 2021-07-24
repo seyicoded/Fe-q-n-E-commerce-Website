@@ -1,0 +1,24 @@
+<div>
+	<div class="w3-margin w3-card-12 green1 w3-padding w3-round">
+		We are Engaged with the Marketing of Natural Herbal Medicines and related products.
+		The Natural Herbal Medicines deals wiith curatives and prevention of various types of health challenges,
+		we perform diagonistic analysis and profer recommendation leading to cure of various diseases such as High blood pressure(HBP),
+		Low blood pressure (LBP), Tyhoid, Hepatitis, Hernia, Gonorrhea , Diarrhea, Jaundice, Glaucoma, Short sightedness (myopia), Long Sightedness(Hyper-myopia),
+		Cataracts, Color Blindness, Total Blindness, Hemorrhoid (pile), and various types of eye problems, Fibroid, Ovarians, Cancer, Infertility,
+		Libido in men and women, Impotency, Various types of infections, STD, Staphylococcus, Arthritis, Amnesia & Alzheimer, Strokes, Diabetes, Ulcer,
+		Goiter, legs Cramps, Mumps, Pneumonia, Liver Problems, Kidney Problems, Ashma, Tinea capitis (Ringworm), Prostate, HIV/AIDS, sickle cell, Sinusitis,
+		Skin Dieases, and much more just to mention a few.
+	</div>
+
+	 
+	<div class="w3-margin w3-card-12 green1 w3-padding w3-round">
+		We are into partnership in collaboration with Queeneth Group and Covenant Team multi-level marketing industry engaged in the 
+		distributorship and  marketing of Greenlife Herbal Network International Business. Come and join the leading team in Network 
+		Marketing with outstanding Net worth returns on your investments and quite Attractive sponsoring returns. The moving train 
+		is waiting to carry you along, Health, Wealth and Longevity is guaranteed. Get Finanicial Freedom and Overcome all your Health
+		Challenges. We Provide solutions to all Humans Health issues with our curative and quality products,
+		<span class="w3-tag w3-black">CONTACT</span>
+		<span class="w3-tag w3-grey">US</span>
+		<span class="w3-tag w3-red">TODAY</span>
+	</div>
+</div>

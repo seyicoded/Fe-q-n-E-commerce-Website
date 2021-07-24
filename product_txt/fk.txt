@@ -1,0 +1,13 @@
+<div id='txt'>
+<ul>
+<li>Do you want to give your face the smooth, clean, spotless, glowing and youthful look? If so meet FACE KLIN. Face Klin is a portable GREENLIFE device which was designed for:</li>
+<li>Removing impurities and leftovers of make-up from the skin.</li>
+
+<li>Deep cleansing of skin to remove; Pimples, Black spots, Acne, Dead 
+Skin cells.</li>
+
+<li>Improving the absorption of nutrients by the skin.</li>
+
+<li>Cleaning Keratin to improve Skin tenderness and luster (spackle).</li>
+</ul>
+</div>

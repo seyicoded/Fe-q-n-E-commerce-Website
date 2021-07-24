@@ -1,0 +1,10 @@
+<div id='txt'>
+Slimming Pad
+<ul>
+ <li>Lose Belly Fat.</li>
+ <li>Acupuncture Body Massager. </li>
+<li>Relieve fatigue.</li>
+<li>improve body function. </li>
+<li>Burn fats from fatty parts and trimming within 30days.</li>
+</ul>
+</div>

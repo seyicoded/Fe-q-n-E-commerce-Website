@@ -1,0 +1,95 @@
+<div style="overflow: auto; width: 100%;">
+	<table class="w3-table w3-striped w3-responsive w3-hoverable">
+		<thead>
+			<tr>
+				<th>Your INVESTMENT or CAPITAL</th>
+				<th>Your REG. FEE N4,200 X</th>
+				<th>Your POINT VALUE (PV)</th>
+				<th>Your GREENLIFE TITLE</th>
+				<th>Your PRODUCTS to COLLECT; EQUIVALENT to</th>
+				<th>Your CASH BONUS to COLLECT</th>
+				<th>Your THANK-U AWARDS to be RECEIVED</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>₦80,000</td>
+				<td>1 DISTRIBUTOR</td>
+				<td>200pv</td>
+				<td>Step 3 (Planner)</td>
+				<td>₦75,000</td>
+				<td>₦5,000</td>
+				<td></td>
+			</tr>
+			
+			<tr>
+				<td>₦300,000</td>
+				<td>5 DISTRIBUTOR</td>
+				<td>1,000pv</td>
+				<td>Step 4 (Team Developer)</td>
+				<td>₦275,000</td>
+				<td>₦50,000</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>₦900,000</td>
+				<td>15 DISTRIBUTOR</td>
+				<td>3,000pv</td>
+				<td>Step 5 (Team Leader)</td>
+				<td>₦835,000</td>
+				<td>₦150,000</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>₦5.2M</td>
+				<td>21 DISTRIBUTOR</td>
+				<td>18,000pv</td>
+				<td>Step 6 (Assistant Supervisor)</td>
+				<td>₦5.1M</td>
+				<td>₦1,050,000</td>
+				<td>1 int'l Trip or N700,000 Cash equivalent</td>
+			</tr>
+			<tr>
+				<td>₦21M</td>
+				<td>50 DISTRIBUTOR</td>
+				<td>70,000pv</td>
+				<td>Step 7 (Team Supervisor)</td>
+				<td>₦20.7M</td>
+				<td>₦4.2M</td>
+				<td>5 Int'l Trips or N3.5m Cash Equivalent & 1 small Car or N2.8m Cash Equivalent</td>
+			</tr>
+			<tr>
+				<td>₦84M</td>
+				<td>200 DISTRIBUTOR</td>
+				<td>270,000pv</td>
+				<td>Step 8 (Team Director)</td>
+				<td>₦83.1M</td>
+				<td>₦16.8M</td>
+				<td>TEAM DIRECTORS AWARDS See below (1)</td>
+			</tr>
+		<tbody>
+	</table>
+</div>
+
+	<div class="w3-row-padding">
+	
+		<div class="w3-col s12 m6 l6">
+			<b>TEAM DIRECTOR</b>
+			<ul>
+			<li>21 Int'l Trips or N14.7m Cash Equivalent</li>
+			<li>5 Small Cars or N14m Cash Equivalent &</li>
+			<li>Cash Award of 25,000 USD (i.e. N5m)</li>
+			<li>2% Global Sales Earning (Quarterly).</li>
+			</ul>
+		</div>
+	
+		<div class="w3-col s12 m6 l6">
+			<b>SUBSEQUENT AWARDS FOR TEAM DIRECTORS</b>
+			<ul>
+			<li>1 Int'l Gateway Vacation or N6m Cash Equivalent</li>
+			<li>Big Car Award (1 Jeep) or N9m Cash Equivalent</li>
+			<li>House Award or N20m Cash Equivalent.</li>
+			</ul>
+		</div>
+
+	</div>
